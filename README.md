@@ -4,6 +4,9 @@
 ## Introduction
 This project aims to enhance urban planning and pedestrian experiences through Meso-Scaled/Micro-Scaled Walkability Analysis and BIA-Centered Sentiment Analysis. It combines conventional geographic analysis with AI-driven insights to provide a comprehensive understanding of urban walkability and public sentiment.
 
+Download required dataset: 
+[https://drive.google.com/file/d/1BZoXRc6qyod6L7SVUrPF3HZ9Vu_YhxNh/view?usp=sharing]
+
 ## Table of Contents
 1. [Walkability Analysis](#walkability-analysis)
     - [Introduction](#introduction)
