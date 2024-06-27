@@ -1,1 +1,1 @@
-[Slides](walkability_+_review.pdf.pdf)
+[Slides](walkability_+_review.pdf)
